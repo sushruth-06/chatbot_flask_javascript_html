@@ -10,4 +10,13 @@ scikit-learn>=0.18
 matplotlib>=1.4.3
 pandas>=0.19
 nltk>=3.4.5
-
+numpy
+torch
+pytorch-ignite
+transformers==2.5.1
+tensorboardX==1.8
+jupyter
+scikit-learn
+pandas
+dill
+scipy
