@@ -12,7 +12,7 @@ pandas>=0.19
 nltk>=3.4.5
 torch
 pytorch-ignite
-transformers==2.5.1
+transformers
 tensorboardX==1.8
 jupyter
 dill
